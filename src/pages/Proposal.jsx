@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaFilePdf, FaDownload } from "react-icons/fa";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 const Proposal = () => {
   useEffect(() => {
