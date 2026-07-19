@@ -53,7 +53,7 @@ const About = () => {
           >
 
             <h1 className="text-4xl md:text-5xl font-bold">
-              About M Charity
+              About ABDI IFA
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-black">
@@ -90,7 +90,7 @@ const About = () => {
             </h2>
 
             <p className="mt-6 text-slate-600 leading-8">
-              M Charity was created from the belief that vulnerable people
+              ABDI IFA was created from the belief that vulnerable people
               need more than temporary assistance. They need opportunities,
               skills, resources, and a supportive community that helps them
               build a better future.

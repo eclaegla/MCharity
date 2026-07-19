@@ -59,7 +59,7 @@ export default function Home() {
 
       {/* Changed body text to a slightly softer teal/gray for readability on white */}
       <p className="mt-6 text-lg text-slate-600 leading-8">
-        M Charity believes real change happens when people gain
+        ABDI IFA believes real change happens when people gain
         opportunities, independence, and hope. Our mission is to create
         long-term solutions for single mothers, prostitutes ,vulnerable women, and
         unaccompanied elderly people.
@@ -106,7 +106,7 @@ export default function Home() {
             transition={{ duration: .6 }}
           >
             <span className="text-teal-700 font-semibold">
-              ABOUT M CHARITY
+              ABOUT ABDI IFA
             </span>
 
             <h2 className="text-3xl font-bold mt-3 text-slate-900">

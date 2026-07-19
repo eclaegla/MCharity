@@ -22,7 +22,7 @@ const Footer = () => {
               to="/"
               className="text-2xl font-bold text-white"
             >
-              M<span className="text-teal-700">Charity</span>
+              ABDI<span className="text-teal-700"> IFA</span>
             </Link>
 
             <p className="mt-5 text-sm leading-7 text-slate-400">
@@ -115,7 +115,7 @@ const Footer = () => {
             </p>
 
             <p className="mt-2 text-sm text-slate-400">
-              info@mcharity.org
+              info@abdiifa.org
             </p>
 
 
@@ -160,7 +160,7 @@ const Footer = () => {
         <div className="border-t border-slate-800 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-500">
 
           <p>
-            © {new Date().getFullYear()} M Charity. All rights reserved.
+            © {new Date().getFullYear()} ABDI IFA. All rights reserved.
           </p>
 
           <div className="flex gap-5">

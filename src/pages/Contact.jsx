@@ -46,7 +46,7 @@ const Contact = () => {
     }
 
     const text = `
-📩 M CHARITY CONTACT
+📩 ABDI IFA CONTACT
 
 ━━━━━━━━━━━━━━
 
@@ -125,7 +125,7 @@ ${formData.message}
 
                 <div>
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-slate-600">info@mcharity.org</p>
+                  <p className="text-slate-600">info@abdiifa.org</p>
                 </div>
               </div>
 
@@ -209,7 +209,7 @@ ${formData.message}
 
             {status === "success" && (
               <div className="rounded-lg bg-green-50 border border-green-200 text-green-700 p-4">
-                Thank you for contacting M Charity. We have received your
+                Thank you for contacting ABDI IFA. We have received your
                 message.
               </div>
             )}

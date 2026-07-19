@@ -24,7 +24,7 @@ const Navbar = () => {
           to="/"
           className="text-2xl font-bold text-teal-700"
         >
-          M<span className="text-slate-900">Charity</span>
+          ABDI {' '}<span className="text-slate-900">IFA</span>
         </Link>
 
 
